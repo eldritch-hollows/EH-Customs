@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configs>
+    <setattribute xpath="//window[@name='worldGeneration']/rect[1]/rect[@name='generationControls']/rect/grid/rect[2]/combobox[@name='WorldSize']" name="values">2048,3072,4096,5120,6144,7168,8192,9216,10240,12288,14336,16384</setattribute>
+</configs>

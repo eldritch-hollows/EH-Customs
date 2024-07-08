@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configs>
+    <!-- Bundle crafting time reduced to 7m, 1:20m faster than creating a full stack yourself -->
+    <setattribute xpath="//recipe[@name='ammoGasCanBundle']" name="craft_time">420</setattribute>
+    <!-- Shale x1 = 5 -->
+    <setattribute xpath="//recipe[@name='ammoGasCan']" name="count">5</setattribute>
+</configs>

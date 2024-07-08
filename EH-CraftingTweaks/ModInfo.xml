@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Name value="EH-CraftingTweaks" />
+  <DisplayName value="Eldritch Hollows: Crafting Tweaks" />
+  <Description value="Modifications to various crafting recipes that we personally use" />
+  <Author value="Eldritch Hollows: TerraTera" />
+  <Version value="0.0.1" />
+  <Website value="https://github.com/Tekunogosu/TerasXUI" />
+</xml>

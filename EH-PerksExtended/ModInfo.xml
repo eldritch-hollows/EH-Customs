@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Name value="EH-PerksExtended" />
+  <DisplayName value="Eldritch Hollows: Perks Extended" />
+  <Description value="Adds or modifies many vanilla perks to make them more interesting." />
+  <Author value="Eldritch Hollows: TeraTerra" />
+  <Version value="0.0.1" />
+  <Website value="https://github.com/eldritch-hollows/EH-Customs" />
+</xml>

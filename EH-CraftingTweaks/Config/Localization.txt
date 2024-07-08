@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text
+ammoGasCanBundle,items,Item,,,Stack of Gas Cans [d3e089](10000)[-]
+ammoGasCanDesc,items,Item,,,A can of gas. Can be used to fuel powered tools and vehicles.\nCrafted in lots of [d3e089]5[-].

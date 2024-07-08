@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+    <!-- larger gas bundle. 2000 shale == 10k or 1 bundle. 1 shale == 5 gas --> 
+    <setattribute xpath="//item[@name='ammoGasCanBundle']/property[@class='Action0']/property[@name='Create_item_count']" name="value">10000</setattribute>
+    <setattribute xpath="//item[@name='ammoGasCanBundle']/property[@name='EconomicValue']" name="value">3000</setattribute>
+</configs>
